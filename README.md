@@ -1,7 +1,7 @@
 # WebXR Proof of Concept to experience 3D and XR content in your browser
 <img width="1355" height="759" alt="Top_Revenue_by_Category" src="https://github.com/nicotauchmann/webXR/blob/9bdd3946be9afe54d7af7eaa7ceefb6a691892de/Screenshot.jpg"/>
 
-
+## Project Overview
 Link to the experience online on netlify: https://web-xr-demo.netlify.app/
 
 Control your view with WASD + mouse movement.
